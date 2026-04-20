@@ -1,0 +1,8 @@
+{
+  "name": "Tagma 2026 Expo Companion",
+  "description": "AI-powered companion for Tagma 2026. Scan business cards, explore exhibitors with AI insights, and log your visits with photos and notes.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
